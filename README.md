@@ -15,14 +15,14 @@
 | 플랫폼 | 파일 |
 |---|---|
 | macOS (Apple Silicon) | [k-portal-macos-arm64.dmg](https://github.com/seunghan91/k-portal-releases/releases/latest/download/k-portal-macos-arm64.dmg) |
-| Windows (x64) | [k-portal-windows-x64-setup.exe](https://github.com/seunghan91/k-portal-releases/releases/latest/download/k-portal-windows-x64-setup.exe) |
+| Windows (x64) | [k-portal-windows-x64-setup.exe (v0.1.1)](https://github.com/seunghan91/k-portal-releases/releases/download/v0.1.1/k-portal-windows-x64-setup.exe) — 최신(v0.1.2) Windows 빌드는 준비 중이며, 설치해 두면 자동 업데이트로 올라갑니다 |
 
 최신 버전은 [Releases](https://github.com/seunghan91/k-portal-releases/releases) 페이지에서 확인할 수 있습니다.
 
 ## 설치
 
 - **macOS (Apple Silicon)**: dmg를 열어 앱을 Applications에 끌어다 놓고, **첫 실행은 우클릭 → 열기**로 시작합니다.
-- **Windows (64비트)**: setup.exe를 실행합니다. 관리자 권한이 필요하지 않으며, WebView2 런타임(Windows 11과 최신 Windows 10에 기본 내장)만 있으면 됩니다.
+- **Windows (64비트)**: setup.exe를 실행합니다(현재 v0.1.1 — 이후 버전은 자동 업데이트). 관리자 권한이 필요하지 않으며, WebView2 런타임(Windows 11과 최신 Windows 10에 기본 내장)만 있으면 됩니다.
 
 설치 후에는 새 버전이 나오면 앱이 자동으로 알려주고, 설정 > 업데이트에서 직접 확인할 수도 있습니다.
 
