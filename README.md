@@ -15,7 +15,7 @@
 | 플랫폼 | 파일 |
 |---|---|
 | macOS (Apple Silicon) | [k-portal-macos-arm64.dmg](https://github.com/seunghan91/k-portal-releases/releases/latest/download/k-portal-macos-arm64.dmg) |
-| Windows (x64) | [k-portal-windows-x64-setup.exe (v0.1.1)](https://github.com/seunghan91/k-portal-releases/releases/download/v0.1.1/k-portal-windows-x64-setup.exe) — 최신(v0.1.2) Windows 빌드는 준비 중이며, 설치해 두면 자동 업데이트로 올라갑니다 |
+| Windows (x64) | [k-portal-windows-x64-setup.exe (v0.1.1)](https://github.com/seunghan91/k-portal-releases/releases/download/v0.1.1/k-portal-windows-x64-setup.exe) — 최신(v0.1.4) Windows 빌드는 준비 중이며, 설치해 두면 자동 업데이트로 올라갑니다 |
 
 최신 버전은 [Releases](https://github.com/seunghan91/k-portal-releases/releases) 페이지에서 확인할 수 있습니다.
 
