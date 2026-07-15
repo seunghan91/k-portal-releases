@@ -1,4 +1,10 @@
-# K-portal — 한국형 로컬 AI 도구 허브
+<div align="center">
+  <img src="docs/app-icon.png" width="120" alt="K-portal" />
+  <h1>K-portal</h1>
+  <p><b>한국형 로컬 AI 도구 허브</b> — 데스크톱 앱</p>
+</div>
+
+---
 
 **K-portal**은 비개발자도 MCP 플러그인을 원클릭으로 설치하면, 단일 게이트웨이가 Claude·ChatGPT·Codex 같은 AI 앱에 도구를 중계하는 한국형 로컬 AI 허브입니다. 내 문서·통계·법령을 내 컴퓨터 안에서 다루고, **오프라인 모드**를 켜면 아무것도 밖으로 나가지 않습니다.
 
