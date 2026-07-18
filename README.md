@@ -38,3 +38,10 @@
 ## 문의
 
 앱 안의 **설정 > 문의하기**에서 바로 보낼 수 있습니다.
+
+## 서드파티 고지 — mecab-ko-dic
+
+`ko-dic.tar.gz`는 [은전한닢 프로젝트](https://bitbucket.org/eunjeon/mecab-ko-dic)의
+mecab-ko-dic(한국어 형태소 분석 사전)을 원 데이터 그대로 재빌드·재배포한 것입니다.
+mecab-ko-dic은 Apache License 2.0으로 배포되며, 전문은 원 저장소의 `COPYING` 파일을
+참고하세요. k-portal은 이 사전 데이터를 수정하지 않고 그대로 재패키징합니다.
